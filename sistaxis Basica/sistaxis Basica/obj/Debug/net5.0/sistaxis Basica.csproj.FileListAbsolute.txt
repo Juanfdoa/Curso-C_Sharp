@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\bin\Debug\net5.0\sistaxis Basica.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\bin\Debug\net5.0\sistaxis Basica.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\bin\Debug\net5.0\sistaxis Basica.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\bin\Debug\net5.0\sistaxis Basica.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\bin\Debug\net5.0\sistaxis Basica.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\bin\Debug\net5.0\ref\sistaxis Basica.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\bin\Debug\net5.0\sistaxis Basica.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\obj\Debug\net5.0\sistaxis Basica.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\obj\Debug\net5.0\sistaxis Basica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\obj\Debug\net5.0\sistaxis Basica.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\obj\Debug\net5.0\sistaxis Basica.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\obj\Debug\net5.0\sistaxis Basica.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\obj\Debug\net5.0\sistaxis Basica.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\obj\Debug\net5.0\ref\sistaxis Basica.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\obj\Debug\net5.0\sistaxis Basica.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\sistaxis Basica\sistaxis Basica\obj\Debug\net5.0\sistaxis Basica.genruntimeconfig.cache
