@@ -1,0 +1,32 @@
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.exe
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.deps.json
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.dll
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\bin\Debug\net5.0\ref\Practica Metodos.dll
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.pdb
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.dll
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\obj\Debug\net5.0\ref\Practica Metodos.dll
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.pdb
+C:\Users\Juan.acevedo\Desktop\C#\Projecto_C\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.genruntimeconfig.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\bin\Debug\net5.0\ref\Practica Metodos.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\bin\Debug\net5.0\Practica Metodos.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\obj\Debug\net5.0\ref\Practica Metodos.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Practica Metodos\Practica Metodos\obj\Debug\net5.0\Practica Metodos.genruntimeconfig.cache
