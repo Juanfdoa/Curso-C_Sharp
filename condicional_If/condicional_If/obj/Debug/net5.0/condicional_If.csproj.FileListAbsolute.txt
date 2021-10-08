@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\bin\Debug\net5.0\condicional_If.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\bin\Debug\net5.0\condicional_If.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\bin\Debug\net5.0\condicional_If.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\bin\Debug\net5.0\condicional_If.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\bin\Debug\net5.0\condicional_If.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\bin\Debug\net5.0\ref\condicional_If.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\bin\Debug\net5.0\condicional_If.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\obj\Debug\net5.0\condicional_If.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\obj\Debug\net5.0\condicional_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\obj\Debug\net5.0\condicional_If.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\obj\Debug\net5.0\condicional_If.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\obj\Debug\net5.0\condicional_If.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\obj\Debug\net5.0\condicional_If.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\obj\Debug\net5.0\ref\condicional_If.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\obj\Debug\net5.0\condicional_If.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicional_If\condicional_If\obj\Debug\net5.0\condicional_If.genruntimeconfig.cache
