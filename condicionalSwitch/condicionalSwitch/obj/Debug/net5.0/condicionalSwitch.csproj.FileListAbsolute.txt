@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\bin\Debug\net5.0\condicionalSwitch.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\bin\Debug\net5.0\condicionalSwitch.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\bin\Debug\net5.0\condicionalSwitch.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\bin\Debug\net5.0\condicionalSwitch.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\bin\Debug\net5.0\condicionalSwitch.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\bin\Debug\net5.0\ref\condicionalSwitch.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\bin\Debug\net5.0\condicionalSwitch.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\obj\Debug\net5.0\condicionalSwitch.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\obj\Debug\net5.0\condicionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\obj\Debug\net5.0\condicionalSwitch.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\obj\Debug\net5.0\condicionalSwitch.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\obj\Debug\net5.0\condicionalSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\obj\Debug\net5.0\condicionalSwitch.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\obj\Debug\net5.0\ref\condicionalSwitch.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\obj\Debug\net5.0\condicionalSwitch.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\condicionalSwitch\condicionalSwitch\obj\Debug\net5.0\condicionalSwitch.genruntimeconfig.cache
