@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\bin\Debug\net5.0\BucleDo_While.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\bin\Debug\net5.0\BucleDo_While.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\bin\Debug\net5.0\BucleDo_While.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\bin\Debug\net5.0\BucleDo_While.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\bin\Debug\net5.0\BucleDo_While.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\bin\Debug\net5.0\ref\BucleDo_While.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\bin\Debug\net5.0\BucleDo_While.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\obj\Debug\net5.0\BucleDo_While.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\obj\Debug\net5.0\BucleDo_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\obj\Debug\net5.0\BucleDo_While.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\obj\Debug\net5.0\BucleDo_While.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\obj\Debug\net5.0\BucleDo_While.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\obj\Debug\net5.0\BucleDo_While.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\obj\Debug\net5.0\ref\BucleDo_While.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\obj\Debug\net5.0\BucleDo_While.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\BucleDo_While\BucleDo_While\obj\Debug\net5.0\BucleDo_While.genruntimeconfig.cache

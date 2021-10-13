@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BucleDo_While/1.0.0": {
+        "runtime": {
+          "BucleDo_While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BucleDo_While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
