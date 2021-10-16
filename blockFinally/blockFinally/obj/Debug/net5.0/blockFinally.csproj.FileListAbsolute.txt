@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\bin\Debug\net5.0\blockFinally.exe
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\bin\Debug\net5.0\blockFinally.deps.json
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\bin\Debug\net5.0\blockFinally.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\bin\Debug\net5.0\blockFinally.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\bin\Debug\net5.0\blockFinally.dll
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\bin\Debug\net5.0\ref\blockFinally.dll
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\bin\Debug\net5.0\blockFinally.pdb
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\obj\Debug\net5.0\blockFinally.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\obj\Debug\net5.0\blockFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\obj\Debug\net5.0\blockFinally.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\obj\Debug\net5.0\blockFinally.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\obj\Debug\net5.0\blockFinally.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\obj\Debug\net5.0\blockFinally.dll
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\obj\Debug\net5.0\ref\blockFinally.dll
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\obj\Debug\net5.0\blockFinally.pdb
+C:\Users\Juan.acevedo\Desktop\blockFinally\blockFinally\obj\Debug\net5.0\blockFinally.genruntimeconfig.cache
