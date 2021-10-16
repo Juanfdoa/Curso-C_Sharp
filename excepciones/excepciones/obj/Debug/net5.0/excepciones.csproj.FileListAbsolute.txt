@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\bin\Debug\net5.0\excepciones.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\bin\Debug\net5.0\excepciones.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\bin\Debug\net5.0\excepciones.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\bin\Debug\net5.0\excepciones.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\bin\Debug\net5.0\excepciones.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\bin\Debug\net5.0\ref\excepciones.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\bin\Debug\net5.0\excepciones.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\obj\Debug\net5.0\excepciones.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\obj\Debug\net5.0\excepciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\obj\Debug\net5.0\excepciones.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\obj\Debug\net5.0\excepciones.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\obj\Debug\net5.0\excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\obj\Debug\net5.0\excepciones.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\obj\Debug\net5.0\ref\excepciones.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\obj\Debug\net5.0\excepciones.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\excepciones\excepciones\obj\Debug\net5.0\excepciones.genruntimeconfig.cache
