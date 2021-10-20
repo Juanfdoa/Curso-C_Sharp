@@ -18,7 +18,7 @@ namespace POO
 
             ConversorEuroDolar valor1 = new ConversorEuroDolar();
 
-            valor1.CambiaValorEuro(1.5);
+            valor1.CambiaValorEuro(1.5);   //Cambiar el valor de la variable privada desde un metodo
 
             Console.WriteLine(valor1.Convierte(50));
 
