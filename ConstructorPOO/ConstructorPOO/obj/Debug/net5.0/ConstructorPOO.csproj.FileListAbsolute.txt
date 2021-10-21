@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\bin\Debug\net5.0\ConstructorPOO.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\bin\Debug\net5.0\ConstructorPOO.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\bin\Debug\net5.0\ConstructorPOO.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\bin\Debug\net5.0\ConstructorPOO.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\bin\Debug\net5.0\ConstructorPOO.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\bin\Debug\net5.0\ref\ConstructorPOO.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\bin\Debug\net5.0\ConstructorPOO.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\obj\Debug\net5.0\ConstructorPOO.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\obj\Debug\net5.0\ConstructorPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\obj\Debug\net5.0\ConstructorPOO.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\obj\Debug\net5.0\ConstructorPOO.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\obj\Debug\net5.0\ConstructorPOO.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\obj\Debug\net5.0\ConstructorPOO.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\obj\Debug\net5.0\ref\ConstructorPOO.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\obj\Debug\net5.0\ConstructorPOO.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ConstructorPOO\ConstructorPOO\obj\Debug\net5.0\ConstructorPOO.genruntimeconfig.cache
