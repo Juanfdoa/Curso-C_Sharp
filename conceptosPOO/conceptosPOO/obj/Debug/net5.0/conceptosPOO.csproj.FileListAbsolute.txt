@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\bin\Debug\net5.0\conceptosPOO.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\bin\Debug\net5.0\conceptosPOO.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\bin\Debug\net5.0\conceptosPOO.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\bin\Debug\net5.0\conceptosPOO.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\bin\Debug\net5.0\conceptosPOO.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\bin\Debug\net5.0\ref\conceptosPOO.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\bin\Debug\net5.0\conceptosPOO.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\obj\Debug\net5.0\conceptosPOO.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\obj\Debug\net5.0\conceptosPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\obj\Debug\net5.0\conceptosPOO.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\obj\Debug\net5.0\conceptosPOO.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\obj\Debug\net5.0\conceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\obj\Debug\net5.0\conceptosPOO.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\obj\Debug\net5.0\ref\conceptosPOO.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\obj\Debug\net5.0\conceptosPOO.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\conceptosPOO\conceptosPOO\obj\Debug\net5.0\conceptosPOO.genruntimeconfig.cache
