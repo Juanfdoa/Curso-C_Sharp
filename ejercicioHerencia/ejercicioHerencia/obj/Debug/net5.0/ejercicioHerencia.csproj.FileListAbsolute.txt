@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\bin\Debug\net5.0\ejercicioHerencia.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\bin\Debug\net5.0\ejercicioHerencia.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\bin\Debug\net5.0\ejercicioHerencia.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\bin\Debug\net5.0\ejercicioHerencia.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\bin\Debug\net5.0\ejercicioHerencia.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\bin\Debug\net5.0\ref\ejercicioHerencia.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\bin\Debug\net5.0\ejercicioHerencia.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\obj\Debug\net5.0\ejercicioHerencia.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\obj\Debug\net5.0\ejercicioHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\obj\Debug\net5.0\ejercicioHerencia.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\obj\Debug\net5.0\ejercicioHerencia.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\obj\Debug\net5.0\ejercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\obj\Debug\net5.0\ejercicioHerencia.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\obj\Debug\net5.0\ref\ejercicioHerencia.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\obj\Debug\net5.0\ejercicioHerencia.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejercicioHerencia\ejercicioHerencia\obj\Debug\net5.0\ejercicioHerencia.genruntimeconfig.cache
