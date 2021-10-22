@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\bin\Debug\net5.0\ejemploInterfaz.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\bin\Debug\net5.0\ejemploInterfaz.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\bin\Debug\net5.0\ejemploInterfaz.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\bin\Debug\net5.0\ejemploInterfaz.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\bin\Debug\net5.0\ejemploInterfaz.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\bin\Debug\net5.0\ref\ejemploInterfaz.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\bin\Debug\net5.0\ejemploInterfaz.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\obj\Debug\net5.0\ejemploInterfaz.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\obj\Debug\net5.0\ejemploInterfaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\obj\Debug\net5.0\ejemploInterfaz.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\obj\Debug\net5.0\ejemploInterfaz.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\obj\Debug\net5.0\ejemploInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\obj\Debug\net5.0\ejemploInterfaz.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\obj\Debug\net5.0\ref\ejemploInterfaz.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\obj\Debug\net5.0\ejemploInterfaz.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ejemploInterfaz\ejemploInterfaz\obj\Debug\net5.0\ejemploInterfaz.genruntimeconfig.cache
