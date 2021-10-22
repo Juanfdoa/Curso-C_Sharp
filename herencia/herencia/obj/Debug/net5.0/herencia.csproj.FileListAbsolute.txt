@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\bin\Debug\net5.0\herencia.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\bin\Debug\net5.0\herencia.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\bin\Debug\net5.0\herencia.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\bin\Debug\net5.0\herencia.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\bin\Debug\net5.0\herencia.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\bin\Debug\net5.0\ref\herencia.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\bin\Debug\net5.0\herencia.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\obj\Debug\net5.0\herencia.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\obj\Debug\net5.0\herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\obj\Debug\net5.0\herencia.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\obj\Debug\net5.0\herencia.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\obj\Debug\net5.0\herencia.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\obj\Debug\net5.0\herencia.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\obj\Debug\net5.0\ref\herencia.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\obj\Debug\net5.0\herencia.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\herencia\herencia\obj\Debug\net5.0\herencia.genruntimeconfig.cache
