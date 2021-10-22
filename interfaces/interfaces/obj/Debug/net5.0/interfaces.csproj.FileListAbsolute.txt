@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\bin\Debug\net5.0\interfaces.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\bin\Debug\net5.0\interfaces.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\bin\Debug\net5.0\interfaces.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\bin\Debug\net5.0\ref\interfaces.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\bin\Debug\net5.0\interfaces.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\obj\Debug\net5.0\interfaces.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\obj\Debug\net5.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\obj\Debug\net5.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\obj\Debug\net5.0\interfaces.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\obj\Debug\net5.0\ref\interfaces.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\obj\Debug\net5.0\interfaces.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\interfaces\interfaces\obj\Debug\net5.0\interfaces.genruntimeconfig.cache
