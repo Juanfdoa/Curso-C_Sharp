@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\bin\Debug\net5.0\ref\Propiedades.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\bin\Debug\net5.0\Propiedades.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\obj\Debug\net5.0\ref\Propiedades.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Propiedades\Propiedades\obj\Debug\net5.0\Propiedades.genruntimeconfig.cache
