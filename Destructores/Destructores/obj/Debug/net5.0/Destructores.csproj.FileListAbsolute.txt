@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\bin\Debug\net5.0\Destructores.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\bin\Debug\net5.0\Destructores.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\bin\Debug\net5.0\Destructores.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\bin\Debug\net5.0\Destructores.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\bin\Debug\net5.0\Destructores.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\bin\Debug\net5.0\ref\Destructores.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\bin\Debug\net5.0\Destructores.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\obj\Debug\net5.0\Destructores.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\obj\Debug\net5.0\Destructores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\obj\Debug\net5.0\Destructores.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\obj\Debug\net5.0\Destructores.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\obj\Debug\net5.0\Destructores.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\obj\Debug\net5.0\Destructores.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\obj\Debug\net5.0\ref\Destructores.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\obj\Debug\net5.0\Destructores.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Destructores\Destructores\obj\Debug\net5.0\Destructores.genruntimeconfig.cache
