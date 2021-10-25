@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\bin\Debug\net5.0\clasesAbstractas.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\bin\Debug\net5.0\clasesAbstractas.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\bin\Debug\net5.0\clasesAbstractas.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\bin\Debug\net5.0\clasesAbstractas.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\bin\Debug\net5.0\clasesAbstractas.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\bin\Debug\net5.0\ref\clasesAbstractas.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\bin\Debug\net5.0\clasesAbstractas.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\obj\Debug\net5.0\clasesAbstractas.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\obj\Debug\net5.0\clasesAbstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\obj\Debug\net5.0\clasesAbstractas.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\obj\Debug\net5.0\clasesAbstractas.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\obj\Debug\net5.0\clasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\obj\Debug\net5.0\clasesAbstractas.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\obj\Debug\net5.0\ref\clasesAbstractas.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\obj\Debug\net5.0\clasesAbstractas.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\clasesAbstractas\clasesAbstractas\obj\Debug\net5.0\clasesAbstractas.genruntimeconfig.cache
