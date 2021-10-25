@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\bin\Debug\net5.0\Genericos.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\bin\Debug\net5.0\Genericos.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\bin\Debug\net5.0\Genericos.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\bin\Debug\net5.0\Genericos.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\bin\Debug\net5.0\Genericos.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\bin\Debug\net5.0\ref\Genericos.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\bin\Debug\net5.0\Genericos.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\obj\Debug\net5.0\Genericos.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\obj\Debug\net5.0\Genericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\obj\Debug\net5.0\Genericos.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\obj\Debug\net5.0\Genericos.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\obj\Debug\net5.0\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\obj\Debug\net5.0\Genericos.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\obj\Debug\net5.0\ref\Genericos.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\obj\Debug\net5.0\Genericos.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Genericos\Genericos\obj\Debug\net5.0\Genericos.genruntimeconfig.cache
