@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\bin\Debug\net5.0\Struct_Y_Enum.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\bin\Debug\net5.0\Struct_Y_Enum.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\bin\Debug\net5.0\Struct_Y_Enum.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\bin\Debug\net5.0\Struct_Y_Enum.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\bin\Debug\net5.0\Struct_Y_Enum.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\bin\Debug\net5.0\ref\Struct_Y_Enum.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\bin\Debug\net5.0\Struct_Y_Enum.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\obj\Debug\net5.0\Struct_Y_Enum.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\obj\Debug\net5.0\Struct_Y_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\obj\Debug\net5.0\Struct_Y_Enum.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\obj\Debug\net5.0\Struct_Y_Enum.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\obj\Debug\net5.0\Struct_Y_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\obj\Debug\net5.0\Struct_Y_Enum.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\obj\Debug\net5.0\ref\Struct_Y_Enum.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\obj\Debug\net5.0\Struct_Y_Enum.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Struct_Y_Enum\Struct_Y_Enum\obj\Debug\net5.0\Struct_Y_Enum.genruntimeconfig.cache
