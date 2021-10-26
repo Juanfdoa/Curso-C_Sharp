@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\bin\Debug\net5.0\Colecciones.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\bin\Debug\net5.0\Colecciones.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\bin\Debug\net5.0\Colecciones.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\bin\Debug\net5.0\Colecciones.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\bin\Debug\net5.0\Colecciones.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\bin\Debug\net5.0\ref\Colecciones.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\bin\Debug\net5.0\Colecciones.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\obj\Debug\net5.0\Colecciones.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\obj\Debug\net5.0\Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\obj\Debug\net5.0\Colecciones.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\obj\Debug\net5.0\Colecciones.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\obj\Debug\net5.0\Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\obj\Debug\net5.0\Colecciones.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\obj\Debug\net5.0\ref\Colecciones.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\obj\Debug\net5.0\Colecciones.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Colecciones\Colecciones\obj\Debug\net5.0\Colecciones.genruntimeconfig.cache
