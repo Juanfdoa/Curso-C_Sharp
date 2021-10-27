@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\bin\Debug\net5.0\EjercicioDelegadosPredicados.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\bin\Debug\net5.0\EjercicioDelegadosPredicados.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\bin\Debug\net5.0\EjercicioDelegadosPredicados.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\bin\Debug\net5.0\EjercicioDelegadosPredicados.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\bin\Debug\net5.0\EjercicioDelegadosPredicados.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\bin\Debug\net5.0\ref\EjercicioDelegadosPredicados.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\bin\Debug\net5.0\EjercicioDelegadosPredicados.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\obj\Debug\net5.0\EjercicioDelegadosPredicados.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\obj\Debug\net5.0\EjercicioDelegadosPredicados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\obj\Debug\net5.0\EjercicioDelegadosPredicados.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\obj\Debug\net5.0\EjercicioDelegadosPredicados.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\obj\Debug\net5.0\EjercicioDelegadosPredicados.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\obj\Debug\net5.0\EjercicioDelegadosPredicados.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\obj\Debug\net5.0\ref\EjercicioDelegadosPredicados.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\obj\Debug\net5.0\EjercicioDelegadosPredicados.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\EjercicioDelegadosPredicados\EjercicioDelegadosPredicados\obj\Debug\net5.0\EjercicioDelegadosPredicados.genruntimeconfig.cache
