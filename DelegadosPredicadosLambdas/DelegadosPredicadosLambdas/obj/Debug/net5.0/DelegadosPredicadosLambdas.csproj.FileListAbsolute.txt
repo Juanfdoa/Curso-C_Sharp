@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net5.0\DelegadosPredicadosLambdas.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net5.0\DelegadosPredicadosLambdas.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net5.0\DelegadosPredicadosLambdas.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net5.0\DelegadosPredicadosLambdas.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net5.0\DelegadosPredicadosLambdas.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net5.0\ref\DelegadosPredicadosLambdas.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\bin\Debug\net5.0\DelegadosPredicadosLambdas.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net5.0\DelegadosPredicadosLambdas.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net5.0\DelegadosPredicadosLambdas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net5.0\DelegadosPredicadosLambdas.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net5.0\DelegadosPredicadosLambdas.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net5.0\DelegadosPredicadosLambdas.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net5.0\DelegadosPredicadosLambdas.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net5.0\ref\DelegadosPredicadosLambdas.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net5.0\DelegadosPredicadosLambdas.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\DelegadosPredicadosLambdas\DelegadosPredicadosLambdas\obj\Debug\net5.0\DelegadosPredicadosLambdas.genruntimeconfig.cache
