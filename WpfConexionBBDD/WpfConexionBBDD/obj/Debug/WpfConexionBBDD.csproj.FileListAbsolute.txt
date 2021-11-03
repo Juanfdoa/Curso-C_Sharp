@@ -1,0 +1,17 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\bin\Debug\WpfConexionBBDD.exe.config
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\bin\Debug\WpfConexionBBDD.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\bin\Debug\WpfConexionBBDD.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\WpfConexionBBDD.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\MainWindow.g.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\App.g.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\WpfConexionBBDD_MarkupCompile.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\WpfConexionBBDD_MarkupCompile.lref
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\MainWindow.baml
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\WpfConexionBBDD.g.resources
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\WpfConexionBBDD.Properties.Resources.resources
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\WpfConexionBBDD.csproj.GenerateResource.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\WpfConexionBBDD.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\WpfConexionBBDD.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\WpfConexionBBDD.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\Actualiza.g.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\WpfConexionBBDD\WpfConexionBBDD\obj\Debug\Actualiza.baml
