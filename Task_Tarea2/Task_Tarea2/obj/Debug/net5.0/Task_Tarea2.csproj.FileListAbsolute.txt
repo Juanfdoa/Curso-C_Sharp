@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\bin\Debug\net5.0\Task_Tarea2.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\bin\Debug\net5.0\Task_Tarea2.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\bin\Debug\net5.0\Task_Tarea2.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\bin\Debug\net5.0\Task_Tarea2.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\bin\Debug\net5.0\Task_Tarea2.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\bin\Debug\net5.0\ref\Task_Tarea2.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\bin\Debug\net5.0\Task_Tarea2.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\obj\Debug\net5.0\Task_Tarea2.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\obj\Debug\net5.0\Task_Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\obj\Debug\net5.0\Task_Tarea2.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\obj\Debug\net5.0\Task_Tarea2.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\obj\Debug\net5.0\Task_Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\obj\Debug\net5.0\Task_Tarea2.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\obj\Debug\net5.0\ref\Task_Tarea2.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\obj\Debug\net5.0\Task_Tarea2.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Task_Tarea2\Task_Tarea2\obj\Debug\net5.0\Task_Tarea2.genruntimeconfig.cache
