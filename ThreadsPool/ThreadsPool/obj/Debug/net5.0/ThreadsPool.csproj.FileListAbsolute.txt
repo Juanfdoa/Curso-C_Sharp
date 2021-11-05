@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\bin\Debug\net5.0\ThreadsPool.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\bin\Debug\net5.0\ThreadsPool.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\bin\Debug\net5.0\ThreadsPool.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\bin\Debug\net5.0\ThreadsPool.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\bin\Debug\net5.0\ThreadsPool.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\bin\Debug\net5.0\ref\ThreadsPool.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\bin\Debug\net5.0\ThreadsPool.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\obj\Debug\net5.0\ThreadsPool.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\obj\Debug\net5.0\ThreadsPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\obj\Debug\net5.0\ThreadsPool.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\obj\Debug\net5.0\ThreadsPool.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\obj\Debug\net5.0\ThreadsPool.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\obj\Debug\net5.0\ThreadsPool.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\obj\Debug\net5.0\ref\ThreadsPool.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\obj\Debug\net5.0\ThreadsPool.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\ThreadsPool\ThreadsPool\obj\Debug\net5.0\ThreadsPool.genruntimeconfig.cache

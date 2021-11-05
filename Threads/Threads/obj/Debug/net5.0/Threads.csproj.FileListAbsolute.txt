@@ -1,0 +1,16 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\bin\Debug\net5.0\Threads.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\bin\Debug\net5.0\Threads.deps.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\bin\Debug\net5.0\Threads.runtimeconfig.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\bin\Debug\net5.0\Threads.runtimeconfig.dev.json
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\bin\Debug\net5.0\Threads.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\bin\Debug\net5.0\ref\Threads.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\bin\Debug\net5.0\Threads.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\obj\Debug\net5.0\Threads.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\obj\Debug\net5.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\obj\Debug\net5.0\Threads.AssemblyInfoInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\obj\Debug\net5.0\Threads.AssemblyInfo.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\obj\Debug\net5.0\Threads.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\obj\Debug\net5.0\Threads.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\obj\Debug\net5.0\ref\Threads.dll
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\obj\Debug\net5.0\Threads.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\Threads\Threads\obj\Debug\net5.0\Threads.genruntimeconfig.cache
