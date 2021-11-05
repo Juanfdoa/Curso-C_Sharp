@@ -1,0 +1,15 @@
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\bin\Debug\LINQandSQL.exe.config
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\bin\Debug\LINQandSQL.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\bin\Debug\LINQandSQL.pdb
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\LINQandSQL.csproj.AssemblyReference.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\MainWindow.g.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\App.g.cs
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\LINQandSQL_MarkupCompile.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\LINQandSQL_MarkupCompile.lref
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\MainWindow.baml
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\LINQandSQL.g.resources
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\LINQandSQL.Properties.Resources.resources
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\LINQandSQL.csproj.GenerateResource.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\LINQandSQL.csproj.CoreCompileInputs.cache
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\LINQandSQL.exe
+C:\Users\Juan.acevedo\Desktop\Curso C_sharp\LINQandSQL\LINQandSQL\obj\Debug\LINQandSQL.pdb
